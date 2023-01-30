@@ -1,6 +1,6 @@
-# **MyBatis-Agent**
+# **AIGeoAgent**
 
-### MyBatis自适应多数据源代理组件，已接入SpringBoot starter。
+### 自适应多数据源代理组件，已接入SpringBoot starter。
 
 —— Code by boyLen
 
